@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi 👋, I'm vaibhav sharma<br>A passionate Full stack developer from India<br>🔭 I'm eager to embark on this exhilarating journey of coding mastery<br>My latest Project - Real Time Drawing Tool<br>🤝 My Backend Project - Building a Zerodha end to end with digital payment systems <br>🌱 I’m currently learning - Next.js, GraphQL, Kafka, MERN Stack<br>💬 Ask me about - react, angular, node<br>📫 How to reach me - vaibhav200345@gmail.com<br>⚡ Fun fact - Certainly! It seems like you would like me to write a short piece of text. Could you please provide more specific details or context about what you'd like me to write about? This will help me create a tailored response for you.
+Hi 👋, I'm Shalini Nukella<br>A passionate Full stack developer from India<br>🔭 I'm eager to embark on this exhilarating journey of coding mastery<br>My latest Project - Real Time Drawing Tool<br>🤝 My Backend Project - Building a Zerodha end to end with digital payment systems <br>🌱 I’m currently learning - Next.js, GraphQL, Kafka, MERN Stack<br>💬 Ask me about - react, angular, node<br>📫 How to reach me - vaibhav200345@gmail.com<br>⚡ Fun fact - Certainly! It seems like you would like me to write a short piece of text. Could you please provide more specific details or context about what you'd like me to write about? This will help me create a tailored response for you.
 
 
 ## 🌐 Socials:
