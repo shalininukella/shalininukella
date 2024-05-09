@@ -93,12 +93,10 @@ hobbies: ["Painting", "Astrology"]
 <h2> 📍 &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{Sukriti-m}/count.svg"> -->
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Sukriti-m}/count.svg)  
-</a> 
 
 <hr>
 
-<h2> 📊 &nbsp;Github Activity:</h2>
+<!--<h2> 📊 &nbsp;Github Activity:</h2>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Sukriti-m&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
@@ -119,4 +117,5 @@ hobbies: ["Painting", "Astrology"]
 </table>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  -->
 </p>
