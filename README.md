@@ -18,6 +18,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/shalininukella/shalininukella/blob/main/gitartwork.svg" />
 </p>   
 
+<hr>
 
 <h2> 🌈 &nbsp;About Me:</h2>
 
@@ -33,6 +34,7 @@ fields_of_interests:
   ]
 hobbies: ["Painting", "Astrology"]
 ```
+<hr>
 
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
@@ -75,6 +77,8 @@ hobbies: ["Painting", "Astrology"]
 </table>
 
 </p>
+<hr>
+
 <h2> 📫 &nbsp;Connect With Me:</h2>                                                                                                             
 <p><a href="https://www.linkedin.com/in/shalininukella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalininukella" height="30" width="40" /></a>
 <a href="mailto:nukellashalini@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="@Sukriti-m" height="30" width="40" /></a>
