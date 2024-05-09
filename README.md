@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .......
 -->
 <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+<h1 align="center">I'm Shalini Nukella ✨</h1>
+<h3 align="center">An inquisitive web developer and UX/UI designer</h3>
 <p align="center">
   <img src="[https://media.licdn.com/dms/image/D4D16AQEnPL6W647Kig/profile-displaybackgroundimage-shrink_350_1400/0/1672945646450?e=1678320000&v=beta&t=yO-N_jpN9QUrbsS2qtHBhT2Gu0ZrnDr4LvtxR7CdIUY](https://www.linkedin.com/in/garima-pachori/overlay/background-image/)">
  </p>
-<h1 align="center">I'm Shalini Nukella ✨</h1>
-<h3 align="center">An inquisitive web developer and UX/UI designer</h3>
+
 <br>
 <p align="center">
     <img src="https://github.com/shalininukella/shalininukella/blob/main/gitartwork.svg" />
