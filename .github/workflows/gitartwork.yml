@@ -1,4 +1,4 @@
-name: gitartwork from a contribution graph
+name: gitartwork from contribution graph
 on: 
   push:
   pull_request:
