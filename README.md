@@ -87,7 +87,7 @@ hobbies: ["Painting", "Astrology"]
 
 <hr>
 </p>
-# 📊 GitHub Stats:
+<h2> 📊 &nbsp;Github Activity:</h2>
 
 ![Shalini Nukella's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
 
