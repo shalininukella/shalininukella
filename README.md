@@ -83,8 +83,13 @@ hobbies: ["Painting", "Astrology"]
 
 
 </p>
-
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
+
+<hr>
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) 
+
 <!-- <h2> ✒️ &nbsp;Blog:</h2>  
 <ol>
 <li> <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc" target="_blank">A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> <br>
@@ -95,7 +100,6 @@ hobbies: ["Painting", "Astrology"]
 <h2> 📍 &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{Sukriti-m}/count.svg"> -->
   
-
 <hr>
 
 <!--<h2> 📊 &nbsp;Github Activity:</h2>
