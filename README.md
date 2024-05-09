@@ -122,17 +122,17 @@ hobbies: ["Painting", "Astrology"]
    <td>
   </td>
   </tr>
-</table>
+</table> -->
 
 <h2> 📈 &nbsp;Productivity Stats:</h2>
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukriti-m&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalininukella&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  -->
+  
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=shalininukella&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
