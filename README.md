@@ -84,7 +84,7 @@ hobbies: ["Painting", "Astrology"]
 </p>
 <hr>
 
-<h2> 📫 &nbsp;Connect With Me:</h2>                                                                                                             
+<h2>  🌐 &nbsp;Connect With Me:</h2>                                                                                                             
 <p><a href="https://www.linkedin.com/in/shalininukella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalininukella" height="30" width="40" /></a>
 <a href="mailto:nukellashalini@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="@Sukriti-m" height="30" width="40" /></a>
 <!-- <a href="https://hashnode.com/@Sukriti-m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371295-9b10e9be-91c0-4c8c-b786-26e402806ede.svg" alt="@Sukriti-m" height="30" width="40" /></a> -->
