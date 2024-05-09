@@ -1,20 +1,123 @@
-### Hi there 👋
+## 💫 About Me:
+<!--**Sukriti-m/Sukriti-m** is a ✨_special_ ✨ reposi
+tory because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ..m
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about .....
+- 📫 How to reach me: ...
+- 😄 Pronouns: ......
+- ⚡ Fun fact: .......
+-->
+<h1 align="center">Hey There! 👋 I'm Shalini Nukella ✨</h1>
+<h3 align="center">An inquisitive web developer and UX/UI designer</h3>
+<br>
+<p align="center">
+    ![gitartwork](gitartwork.svg)
+    <img src="https://github.com/Sukriti-m/Sukriti-m/blob/main/gitartwork.svg" />
+</p>   
 
-# 💫 About Me:
-Hi 👋, I'm Shalini Nukella<br>A passionate Full stack developer from India<br>🔭 I'm eager to embark on this exhilarating journey of coding mastery<br>My latest Project - Real Time Drawing Tool<br>🤝 My Backend Project - Building a Zerodha end to end with digital payment systems <br>🌱 I’m currently learning - Next.js, GraphQL, Kafka, MERN Stack<br>💬 Ask me about - react, angular, node<br>📫 How to reach me - nukellashalini@gmail.com<br>⚡ Fun fact - Certainly! It seems like you would like me to write a short piece of text. Could you please provide more specific details or context about what you'd like me to write about? This will help me create a tailored response for you.
+
+<h2> 🌈 &nbsp;About Me:</h2>
+
+```yaml
+name: Shalini Nukella
+pronouns: She/Her
+located_in: Hyderabad, India
+education: B.Tech. 3rd Year Student @GNITS, Hyderabad
+fields_of_interests:
+  [
+    "Web Development",
+    "UX/UI Designing",
+  ]
+hobbies: ["Painting", "Astrology"]
+```
+
+<h2> 🚀 &nbsp;Languages and Tools:</h2>
+<p align="left">
+<table>
+<tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
+  <tr>
+    <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+</td><td>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="45" height="45" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" height="45"/>
+          </td>  
+          
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="45" height="45 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="45" height="45"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="45" height="45"/>
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+</td>
+   </tr> 
+ 
+</table>
+
+</p>
+<h2> 📫 &nbsp;Connect With Me:</h2>                                                                                                             
+<p><a href="https://www.linkedin.com/in/shalininukella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalininukella" height="30" width="40" /></a>
+<a href="mailto:nukellashalini@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="@Sukriti-m" height="30" width="40" /></a>
+<!-- <a href="https://hashnode.com/@Sukriti-m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371295-9b10e9be-91c0-4c8c-b786-26e402806ede.svg" alt="@Sukriti-m" height="30" width="40" /></a> -->
+<!-- <a href="https://www.behance.net/sukritimaurya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/182020298-b3b10033-c26c-4750-85b2-cd9286499c68.svg" alt="sukritimaurya" height="30" width="40" /></a> -->
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalini-nukella-27a898222/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vaibhav4228&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav4228&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav4228&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+</p>
+<!-- <h2> ✒️ &nbsp;Blog:</h2>  
+<ol>
+<li> <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc" target="_blank">A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> <br>
+  <li> <a href="https://sukritim.hashnode.dev/what-is-http-and-https" target="_blank"> What is HTTP and HTTPS? </a> <br>
+<li>   <a href="https://sukritim.hashnode.dev/introduction-to-apis" target="_blank">Introduction To APIs</a> <br>
+  <li>   <a href="https://sukritim.hashnode.dev/basics-of-aws" target="_blank">Basics Of AWS</a>
+                                                                              </ol> 
+<h2> 📍 &nbsp;Visitor's Count:</h2>
+<a align="center" href="https://profile-counter.glitch.me/{Sukriti-m}/count.svg"> -->
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ![VisitorCount](https://profile-counter.glitch.me/{Sukriti-m}/count.svg)  
+</a> 
 
+<hr>
+
+<h2> 📊 &nbsp;Github Activity:</h2>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sukriti-m&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukriti-m&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukriti-m&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+   <td>
+  </td>
+  </tr>
+</table>
+
+<h2> 📈 &nbsp;Productivity Stats:</h2>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukriti-m&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
