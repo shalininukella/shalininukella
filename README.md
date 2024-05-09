@@ -83,6 +83,8 @@ hobbies: ["Painting", "Astrology"]
 
 
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <h2> ✒️ &nbsp;Blog:</h2>  
 <ol>
 <li> <a href="https://sukritim.hashnode.dev/a-beginners-guide-to-gssoc" target="_blank">A Beginner's Guide To GSSoC (GirlScript Summer of Code)</a> <br>
