@@ -81,12 +81,12 @@ hobbies: ["Painting", "Astrology"]
 <!-- <a href="https://hashnode.com/@Sukriti-m" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/180371295-9b10e9be-91c0-4c8c-b786-26e402806ede.svg" alt="@Sukriti-m" height="30" width="40" /></a> -->
 <!-- <a href="https://www.behance.net/sukritimaurya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93239528/182020298-b3b10033-c26c-4750-85b2-cd9286499c68.svg" alt="sukritimaurya" height="30" width="40" /></a> -->
 
-
-</p>
 <hr>
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
 
-<hr>
+
 
 
 
