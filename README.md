@@ -1,4 +1,4 @@
-## 💫 About Me:
+
 <!--**Sukriti-m/Sukriti-m** is a ✨_special_ ✨ reposi
 tory because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -87,11 +87,9 @@ hobbies: ["Painting", "Astrology"]
 
 <hr>
 </p>
+# 📊 GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
-
-
-
+![Shalini Nukella's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
 
 
 <!-- <h2> ✒️ &nbsp;Blog:</h2>  
