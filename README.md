@@ -129,3 +129,7 @@ hobbies: ["Painting", "Astrology"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   -->
 </p>
+
+<hr>
+
+[![](https://visitcount.itsvg.in/api?id=shalininukella&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
