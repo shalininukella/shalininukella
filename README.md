@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 name: Shalini Nukella
 pronouns: She/Her
 located_in: Hyderabad, India
-education: B.Tech. 3rd Year Student @GNITS, Hyderabad
+education: Final Year B.Tech Student @GNITS, Hyderabad
 fields_of_interests:
   [
     "Web Development",
