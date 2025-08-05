@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .......
 -->
 <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Shalini Nukella ✨ </h1>
-<h3 align="center">An inquisitive web developer and UX/UI designer</h3>
+<h3 align="center">An inquisitive Fullstack Web Developer</h3>
 <p align="center">
   
  </p>
