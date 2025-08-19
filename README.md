@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2> 🌈 &nbsp;About Me:</h2>
+<h2> 🌸 &nbsp;About Me:</h2>
 
 ```yaml
 name: Shalini Nukella
@@ -30,6 +30,7 @@ pronouns: She/Her
 located_in: Hyderabad, India
 education: B.Tech CSE, Class of 2025 
 college: GNITS, Hyderabad
+experience: Software Engineer Intern @EPAM Systems
 fields_of_interests:
   [
     "Web Development",
