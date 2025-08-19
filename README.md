@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 name: Shalini Nukella
 pronouns: She/Her
 located_in: Hyderabad, India
-education: Final Year B.Tech Student @GNITS, Hyderabad
+education: B.Tech CSE, Class of 2025 
+college: GNITS, Hyderabad
 fields_of_interests:
   [
     "Web Development",
     "UX/UI Designing",
   ]
-hobbies: ["Painting", "Astrology"]
+hobbies: ["Astrology", "Drawing", "Painting"]
 ```
 <hr>
 
