@@ -42,7 +42,7 @@ hobbies: ["Astrology", "Drawing", "Painting"]
 <hr>
 
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
-<p align="center">
+<p align="left">
 <table>
 <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
@@ -93,8 +93,10 @@ hobbies: ["Astrology", "Drawing", "Painting"]
 <hr>
 </p>
 <h2> 📊 &nbsp;Github Activity:</h2>
+<div align = "center">
+  ![Shalini Nukella's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
+</div>
 
-![Shalini Nukella's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shalininukella&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalininukella&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
