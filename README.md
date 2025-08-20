@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ......
 - ⚡ Fun fact: .......
 -->
-<h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Shalini Nukella ✨ </h1>
+
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm ✨ </h1>
 <h3 align="center">An inquisitive Fullstack Web Developer</h3>
 <p align="center">
   
