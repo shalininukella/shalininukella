@@ -42,7 +42,7 @@ hobbies: ["Astrology", "Drawing", "Painting"]
 <hr>
 
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
-<p align="left">
+<p align="center">
 <table>
 <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
@@ -124,7 +124,7 @@ hobbies: ["Astrology", "Drawing", "Painting"]
   </tr>
 </table> -->
 <h2> 📈 &nbsp;Productivity Stats:</h2>
-<table>
+<table align = "center">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalininukella&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
