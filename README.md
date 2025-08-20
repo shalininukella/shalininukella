@@ -129,11 +129,11 @@ hobbies: ["Astrology", "Drawing", "Painting"]
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shalininukella&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-</p>
 
 ![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
 
-[![image](https://visitcount.itsvg.in/api?id=shalininukella&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in) 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=shalininukella&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in) 
