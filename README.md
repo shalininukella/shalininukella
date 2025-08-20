@@ -134,5 +134,6 @@ hobbies: ["Astrology", "Drawing", "Painting"]
   
 </p>
 
+![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
 
-![](https://visitcount.itsvg.in/api?id=shalininukella&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shalininukella&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
