@@ -92,13 +92,19 @@ hobbies: ["Astrology", "Drawing", "Painting"]
 
 <hr>
 </p>
-<h2> 📊 &nbsp;Github Activity:</h2>
-<div align = "center">
-  ![Shalini Nukella's GitHub stats](https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical)
-</div>
+<h2 align="center"> 📊 &nbsp;Github Activity:</h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shalininukella&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shalininukella&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shalininukella&show_icons=true&theme=radical" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalininukella&theme=gotham&hide_border=false" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalininukella&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
 
 
 <!-- <h2> ✒️ &nbsp;Blog:</h2>  
